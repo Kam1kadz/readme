@@ -1,0 +1,126 @@
+{
+  "1476264136630337587": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1476623536255930478": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1475238654229221547": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1470930075405910048": {
+    "last_non_admin_ts": "2026-03-24T14:41:24.458000+00:00",
+    "pinged": true
+  },
+  "1457769738158477547": {
+    "last_non_admin_ts": "2026-03-14T16:54:56.792000+00:00",
+    "pinged": true
+  },
+  "1478488713762832537": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1480212610342326543": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1481001525403848786": {
+    "last_non_admin_ts": "2026-03-16T17:45:17.036000+00:00",
+    "pinged": true
+  },
+  "1481639309793693828": {
+    "last_non_admin_ts": "2026-03-12T21:09:12.953000+00:00",
+    "pinged": true
+  },
+  "1482260284705079366": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1482676975205355733": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1483121643416195235": {
+    "last_non_admin_ts": "2026-03-16T17:03:09.107000+00:00",
+    "pinged": true
+  },
+  "1483433434373161070": {
+    "last_non_admin_ts": "2026-03-18T15:59:48.476000+00:00",
+    "pinged": true
+  },
+  "1483596988862959888": {
+    "last_non_admin_ts": "2026-03-18T14:32:59.352000+00:00",
+    "pinged": false
+  },
+  "1483791850392387594": {
+    "last_non_admin_ts": "2026-03-18T14:31:00.786000+00:00",
+    "pinged": false
+  },
+  "1483832375883333656": {
+    "last_non_admin_ts": "2026-03-18T14:26:09.631000+00:00",
+    "pinged": false
+  },
+  "1483856589982011474": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1483931354038276327": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1484572486015389847": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1485420109454508043": {
+    "last_non_admin_ts": "2026-03-23T12:24:59.225000+00:00",
+    "pinged": true
+  },
+  "1485743678822809600": {
+    "last_non_admin_ts": "2026-03-23T20:55:26.598000+00:00",
+    "pinged": false
+  },
+  "1485744808000618568": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1486081145119445186": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1486090526724980830": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1486443832525721690": {
+    "last_non_admin_ts": "2026-03-25T19:34:21.415000+00:00",
+    "pinged": true
+  },
+  "1486821345424576593": {
+    "last_non_admin_ts": "2026-03-27T15:39:38.826000+00:00",
+    "pinged": true
+  },
+  "1487159880451227850": {
+    "last_non_admin_ts": "2026-03-27T18:48:44.007000+00:00",
+    "pinged": false
+  },
+  "1487166627622682894": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1487441439414817082": {
+    "last_non_admin_ts": null,
+    "pinged": false
+  },
+  "1487462830482657350": {
+    "last_non_admin_ts": "2026-03-28T19:30:36.354000+00:00",
+    "pinged": true
+  },
+  "1487750422490906795": {
+    "last_non_admin_ts": "2026-03-29T10:13:45.446000+00:00",
+    "pinged": true
+  }
+}
